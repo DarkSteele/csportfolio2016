@@ -1,0 +1,20 @@
+#navbar {
+    text-align: center;
+}
+
+#navbar li {
+    display: inline-block;
+    padding: 10px;
+    background-color: pink;
+}
+
+#navbar a {
+    color: red;
+    background-color: pink;
+}
+
+
+.container > * {
+    display:inline-block;
+    vertical-align:top;
+}
